@@ -1,0 +1,8 @@
+Create a new repository on the command line
+ echo "This is test" >> README.MD
+ git init
+ git add README.MD
+ git commit -m "First commit"
+ git remote add orgin https://github.com/janakadis/github
+ git push -u orgin master
+ 
